@@ -1,0 +1,24 @@
+/**
+ * @name OG Discord Font
+ * @version 1.0.0
+ * @author Cradex#6320
+ * @authorId  
+ * @description Change The Discord to The OG Font!!!
+ * @source https://github.com/Septhev/Fix-Discord-Font
+ * @website https://cradex.live
+ * @invite https://discord.gg/HHnJS7fXYh
+*/
+
+/* Imports */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@100;200;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source Code Pro:wght@550&display=swap");
+
+@import url("https://raw.githubusercontent.com/Septhev/Fix-Discord-Font/main/margins.css");
+
+:root {
+    --version1_0_6: none;
+    --font: "Lato";
+    --code-font: "Source Code Pro";
+}
+
+/*-Made by @Cradex with most of code made by The CommiteAxolotl#0001-*/
